@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("MiPancakeBold.ttf");
+        src: url("Prompt-Italic.ttf");
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("sd chokdee.ttf");
+        src: url("Chonburi-Regular.ttf");
       }
       #font1{
         font-family: "MyFont1";
@@ -19,7 +19,7 @@
     </style>
   </head>
   <body>
-    <h1 id="font1">กิตติพศ พั้วพวง ม.4/12 เลขที่ 3 เลขประจำตัว 57012</h1>
-    <h1 id="font2">กิตติพศ พั้วพวง ม.4/12 เลขที่ 3 เลขประจำตัว 57012</h1>
+    <h1 id="font1">กฤตนัย สามลทา ม.4/12 เลขที่ 1 เลขประจำตัว 57009</h1>
+    <h1 id="font2">กฤตนัย สามลทา ม.4/12 เลขที่ 1 เลขประจำตัว 57009</h1>
   </body>
 </html>
